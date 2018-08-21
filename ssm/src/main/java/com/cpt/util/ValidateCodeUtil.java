@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.Random;
 
 /**
- * 版权所有(C) 2017 上海银路投资管理有限公司
+ * 版权所有(C)
  * 描述: 图形验证码生成器
  * 作者: chen_pt
  * 创建日期: 2017/12/6

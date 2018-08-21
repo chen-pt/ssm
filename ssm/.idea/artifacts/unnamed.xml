@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" build-on-make="true" name="unnamed">
-    <output-path>D:/新建文件夹</output-path>
-    <root id="archive" name="unnamed.war">
-      <element id="artifact" artifact-name="ssm:war" />
-    </root>
-  </artifact>
-</component>
